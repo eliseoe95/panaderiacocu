@@ -1,0 +1,9 @@
+@media all and (min-width: 767px) {
+    .banner-responsive{
+        height: 300px;
+        object-fit: cover;
+    }
+    .rounded{
+        filter:drop-shadow(5px 5px 7px gray) grayscale(30%);
+    }
+}
